@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20MySQL-orange.svg?logo=sqlite" alt="Database" />
   <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License" />
 </p>
----
+ 
 ## 📌 Table of Contents
 - [Project Overview](#-project-overview)
 - [Key Features](#-key-features)
